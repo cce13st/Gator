@@ -1,0 +1,26 @@
+Gator Program Analysis Toolkit For Android
+
+This release (version 3.3) includes the source code for the static
+analyses described in our CGO'14, ICSE'15, ASE'15 and CC16 papers.
+In order to provide a clearer description of this tool, we rewrite
+the documentation and it is located in the 'docs' directory.
+
+The directory structure is as follows:
+
+- README: this file
+
+- LICENSE: license for the software components developed at OSU: (1)
+  GATOR, and (2) accompanying scripts to run the analysis.
+
+- SootAndroid: source code for the static analysis component of GATOR,
+  including work from CGO'14 and ASE'15, as well as various extensions
+  and bug fixes.
+
+- AndroidBench: Android programs used in our experiments, and
+  associated Android platform JAR files. Note: In order to reduce the
+  download size, we only include one Android program (APV) in this
+  archive (gator-3.3). The remaining 19 Android programs used in both
+  CGO'14 and ASE'15 papers can be downloaded from a separate archive
+  bench-3.3 at http://web.cse.ohio-state.edu/presto/software/gator/
+
+- docs: The documentation of GATOR

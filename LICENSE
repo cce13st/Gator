@@ -1,0 +1,68 @@
+This license applies to GATOR, a Pro*g*ram *A*nalysis *T*oolkit F*o*r
+And*r*oid.
+
+Copyright (c) 2014, 2015 The Ohio State University All rights
+reserved.
+
+Contact: Atanas Rountev <rountev@cse.ohio-state.edu>
+Written by: Dacong Yan
+Modified by: Shengqian Yang, Haowei Wu, Hailong Zhang
+
+References:
+
+- Atanas Rountev, and Dacong Yan. Static Reference Analysis for GUI
+Objects in Android Software. In Proceedings of the International
+Symposium on Code Generation and Optimization (CGO'14), February 2014.
+
+- Shengqian Yang, Dacong Yan, Haowei Wu, Yan Wang, and Atanas
+Rountev. Static Control-Flow Analysis of User-Driven Callbacks in
+Android Applications. In Proceedings of the International Conference
+on Software Engineering (ICSE'15), May 2015.
+
+- Shengqian Yang, Hailong Zhang, Haowei Wu, Yan Wang, Dacong Yan, and
+Atanas Rountev.  Static Window Transition Graph for Android. In
+Proceedings of the International Conference on Automated Software
+Engineering (ASE'15), November 2015.
+
+- Dacong Yan. Program Analyses for Understanding the Behavior and
+Performance of Traditional and Mobile Object-Oriented Software.
+Ph.D. Thesis, Ohio State University, July 2014
+
+- Shengqian Yang. Static Analyses of GUI Behavior in Android
+Applications. Ph.D. Thesis, Ohio State University, September 2015.
+
+- Haowei Wu, Shengqian Yang, and Atanas Rountev. Static Analyses of
+GUI Behavior in Android Applications. In Proceedings of the
+International Conference on Compiler Construction (CC'16), March 2016 
+
+Acknowledgments: This material is based upon work supported by the
+U.S. National Science Foundation under grants CCF-1017204,
+CCF-1319695, and CCF-1526459 and by a Google Faculty Research
+Award. Any opinions, findings, and conclusions or recommendations
+expressed in this material are those of the author(s) and do not
+necessarily reflect the views of the National Science Foundation or
+Google Inc.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+- Redistributions of source code must retain the above copyright notice,
+this list of conditions and the following disclaimer.
+- Redistributions in binary form must reproduce the above copyright notice,
+this list of conditions and the following disclaimer in the documentation
+and/or other materials provided with the distribution.
+- Neither the name of The Ohio State University nor the names of its
+contributors may be used to endorse or promote products derived from this
+software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
